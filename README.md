@@ -13,7 +13,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝗔𝗚𝗢𝗥𝗔ᥫʀ᭡](https://t.me/MR_AGOR
 
 # Hᴏsᴛɪɴɢ
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+𝙵𝙲𝚁 𝚇 𝚃𝙴𝙰𝙼 𝙰𝙶𝙾𝚁𝙰+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DeadlySpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+𝙵𝙲𝚁 𝚇 𝚃𝙴𝙰𝙼 𝙰𝙶𝙾𝚁𝙰+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+SPAM-FCRXTA+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
 </p>
 
 ###    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
