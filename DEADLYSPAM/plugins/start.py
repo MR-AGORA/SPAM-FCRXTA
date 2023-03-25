@@ -16,14 +16,14 @@ OWNER_INFO = config.OWNER_NAME
 if config.OWNER_NAME:
     OWNER_NAME = OWNER_INFO
 else:
-    OWNER_NAME = "DEADLY-USER"
+    OWNER_NAME = "KANNADIGAXD"
 
 OWNER_ID = config.OWNER_ID
 
 Deadly_Button = [
         [
         Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/aboutagora"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/do_jism_ek_jaan_op")
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Ganchali_bidi_kannada_matgadi")
         ],
         [
         Button.url("• Rᴇᴘᴏ •", "https://t.me/aboutagora/6")
@@ -50,7 +50,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[𝗔𝗚𝗢𝗥𝗔](tg://user?id={5876293679})"
+        creator = f"[OWNER](tg://user?id={5876293679})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs ғᴄʀ x ᴛᴇᴀᴍ ᴀɢᴏʀᴀ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
