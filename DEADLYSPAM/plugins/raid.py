@@ -132,7 +132,7 @@ async def _(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in DEADLYSPAM:
-                text = f"**» ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴅᴇᴀᴅʟʏ ᴄʀᴇᴀᴛᴏʀ !**"
+                text = f"**» ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴄʀᴇᴀᴛᴏʀ !**"
                 await e.reply(text)
             elif int(user_id) == config.OWNER_ID:
                 text = f"» ɪ  ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴍʏ ᴏᴡɴᴇʀ  !"            
@@ -145,7 +145,7 @@ async def _(e):
                 gey = que.get(user_id)
                 phucker = [user_id]
                 gey.append(phucker)
-                text = f"**ʀᴇᴘʟʏʀᴀɪᴅ ᴀᴄᴛɪᴠᴀᴛᴇᴅ** !"
+                text = f"**𝗛𝗔𝗠𝗦𝗘 𝗣𝗔𝗡𝗚𝗔 😂😂 𝗞𝗔𝗥𝗨𝗡𝗚𝗔 𝗧𝗨𝗠𝗔𝗥𝗘 𝗠𝗔𝗔 𝗕𝗘𝗛𝗔𝗡 𝗡𝗔𝗡𝗔𝗚𝗔 👅👅** !"
                 await e.reply(text)
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -166,7 +166,7 @@ async def _(e):
                 gey = que.get(user_id)
                 phucker = [user_id]
                 gey.append(phucker)
-                text = f"**ʀᴇᴘʟʏʀᴀɪᴅ ᴀᴄᴛɪᴠᴀᴛᴇᴅ** !"
+                text = f"**𝗛𝗔𝗠𝗦𝗘 𝗣𝗔𝗡𝗚𝗔 😂😂 𝗞𝗔𝗥𝗨𝗡𝗚𝗔 𝗧𝗨𝗠𝗔𝗥𝗘 𝗠𝗔𝗔 𝗕𝗘𝗛𝗔𝗡 𝗡𝗔𝗡𝗔𝗚𝗔 👅👅 !"
                 await e.reply(text)
         else:
             await e.reply(usage)
@@ -236,7 +236,7 @@ async def _(event):
              a = await event.client.get_entity(user)
              e = a.id
              if int(e) in DEADLYSPAM:
-                 text = f"**» ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴅᴇᴀᴅʟʏ ᴄʀᴇᴀᴛᴏʀ !**"
+                 text = f"**» ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴄʀᴇᴀᴛᴏʀ !**"
                  await event.reply(text)
              elif int(e) == config.OWNER_ID:
                  text = f"**» ɪ  ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴍʏ ᴏᴡɴᴇʀ  !**"
@@ -260,7 +260,7 @@ async def _(event):
                b = await event.client.get_entity(a.sender_id)
                e = b.id
                if int(e) in DEADLYSPAM:
-                   text = f"**» ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴅᴇᴀᴅʟʏ ᴄʀᴇᴀᴛᴏʀ !**"
+                   text = f"**» ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴄʀᴇᴀᴛᴏʀ !**"
                    await event.reply(text)
                elif int(e) == config.OWNER_ID:
                    text = f"**» ɪ  ᴄᴀɴɴᴏᴛ ʀᴀɪᴅ ᴏɴ ᴍʏ ᴏᴡɴᴇʀ  !**"
