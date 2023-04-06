@@ -22,11 +22,11 @@ OWNER_ID = config.OWNER_ID
 
 Deadly_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/aboutagora"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Ganchali_bidi_kannada_matgadi")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/LOVEE_AND_LUSTT"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/BTS_DRUGS")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://t.me/aboutagora/6")
+        Button.url("• Rᴇᴘᴏ •", "https://t.me/KCDRAMASHORTS")
         ]
         ]
         
