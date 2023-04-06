@@ -27,7 +27,7 @@ async def tb(event):
        if event.reply_to_msg_id is not None:
            reply_msg = await event.get_reply_message()
            user_id = reply_msg.sender_id
-           ok = await event.reply("**ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ 🥀**")
+           ok = await event.reply("**𝗛𝗔𝗠𝗦𝗘 𝗣𝗔𝗡𝗚𝗔 😂😂 𝗞𝗔𝗥𝗨𝗡𝗚𝗔 𝗧𝗨𝗠𝗔𝗥𝗘 𝗠𝗔𝗔 𝗕𝗘𝗛𝗔𝗡 𝗡𝗔𝗡𝗔𝗚𝗔 👅👅🥀**")
            if user_id in SUDOERS:
                await ok.edit("ᴜꜱᴇʀ ᴀʟʀᴇᴀᴅʏ  ɪɴ   ꜱᴜᴅᴏʟɪꜱᴛ 💫") 
            else:
